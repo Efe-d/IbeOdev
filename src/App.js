@@ -14,8 +14,8 @@ function App() {
     <div className="MainContainer">
       <div className="navbar">
         <nav>
-          <Link to="/"> Home </Link>
-          <Link to="/Contact"> Contact</Link>
+          <Link to="/"> AnaSayfa </Link>
+          <Link to="/Contact"> İletişim </Link>
           <Link to="/lang1"> React Native </Link>
           <Link to="/lang2"> JavaScript </Link>
           <Link to="/lang3"> C# </Link>

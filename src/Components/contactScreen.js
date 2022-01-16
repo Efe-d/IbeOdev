@@ -8,9 +8,9 @@ function contactScreen() {
       </div>
 
       <div className="ourinfo">
-        <h1> Contact </h1>
+        <h1> İletişim </h1>
 
-        <h2> Phone : 123 123123 123 </h2>
+        <h2> Telefon  : 123 123123 123 </h2>
         <h2> E-Mail : company@example.com </h2>
       </div>
 
