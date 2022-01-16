@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: #1f2833;
+}
+
+
+/* NAVBAR */
+.navbar {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+.navbar nav a {
+  color: #66fcf1;
+  font-size: 2rem;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+.navbar nav a:hover {
+  background-color: #0B0C10;
+  border-radius: 30%;
+}
+
+/* NAVBAR */
+
+/* Global */ 
+.headbanner img {
+  height: 55vh;
+  width: 100%;
+}
+
+.gifside img {
+  height: 35vh;
+  width: 20%;
+}
+
+.gifside {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.secondimage
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.secondimage img
+{
+
+  height: 45vh;
+  width: 50%;
+
+}
+
+/* Global */ 
+/* HOMESCREEN */
+.info {
+  margin-left: 25%;
+  text-align: center;
+  font-size: 1.5rem;
+  color: #c5c6c7;
+  width: 50%;
+  height: max-content;
+}
+/* HOMESCREEN */
+
+/* CONTACTSCREEN */
+
+.Contact .banner img 
+{
+  
+  height: 55vh;
+  width: 100%;
+}
+.Contact .ourinfo
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #c5c6c7;
+}
+
+.Contact .mail
+{
+  font-size: 1.3rem;
+  margin-top: 50px;
+  color: #c5c6c7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.Contact .mail input
+{
+  font-size: 15px;
+  color: #c5c6c7;
+  border-color: white;
+  outline: none;
+  width: 300px;
+  height: 30px;
+}
+.Contact .mail textarea
+{
+  font-size: 15px;
+  color: #c5c6c7;
+  border-color: white;
+  outline: none;
+  max-width: 100%;
+  resize: none;
+}
+/* CONTACTSCREEN */
